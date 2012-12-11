@@ -375,3 +375,11 @@ footer nav {
   font-size: 12px;
   list-style: square;
 }
+
+a {
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: underline !important;
+}
